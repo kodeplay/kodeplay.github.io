@@ -1,0 +1,31 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.mar10{
+  margin:10px;
+}
+.mar20{
+margin:20px;
+}
+.pad10{
+  padding:10px;
+}
+.pad5{
+  padding:5px;
+}
+.ver50{
+margin-top:100px;
+margin-bottom:100px;
+}
+.bold{
+  font-weight:bold;
+}
+
