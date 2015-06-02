@@ -1,0 +1,76 @@
+---
+layout: default
+title: Request For Estimate
+section_id: home
+---
+
+<div class="row mar-top-50" style="height:1200px;">
+    <form class="col s12" action="" method="POST">
+      <h4 style="border-bottom: 1px dashed #666;" class="mar-bot-40">Request For Estimate</h4>
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Full Name" name="first_name" id="first_name" type="text" class="validate">
+          <label for="first_name">Full Name</label>
+        </div>
+        <div class="input-field col s6">
+          <input placeholder="Email" id="email" name="email" type="email" class="validate">
+          <label for="email">Email</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+            <input placeholder="Telephone" id="telephone" name="telephone" type="tel" class="validate">
+            <label for="telephone">Telephone</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea1" name="textarea1" class="materialize-textarea"></textarea>
+          <label for="textarea1">Explain us about this product or service</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea2" name="textarea2" class="materialize-textarea"></textarea>
+          <label for="textarea2">who are your users ? which new job will they be able to do when you launch ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea3" name="textarea3" class="materialize-textarea"></textarea>
+          <label for="textarea3">What is new and unique about this product or service ? what is your unique selling proposition and which advantage do you have over your competition ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <select name="estimate_time">
+            <option value="1">1 month (160 hours) / USD 3200</option>
+            <option value="2">2 months (320 hours) / USD 6400</option>
+            <option value="3">3 months (480 hours) / USD 9600</option>
+            <option value="4">More Than 3 months</option>
+          </select>
+          <label>Estimated project time/cost</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input placeholder="" id="text1" name="text1" type="text" class="">
+          <label for="text1">How did you hear about Kodeplay ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input placeholder="" id="text2" name="text2" type="text" class="">
+          <label for="text2">Your timezone</label>
+        </div>
+      </div>
+      <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+        <i class="mdi-content-send right"></i>
+      </button>
+    </form>
+  </div>
+  <script type="text/javascript">
+    //$(document).ready(function() {
+      //$('select').material_select();
+    //});
+  </script>
