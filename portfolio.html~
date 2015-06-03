@@ -3,114 +3,132 @@ layout: default
 title: Kodeplay - Our Portfolio
 section_id: portfolio
 ---                                          
-<h1 class = "orange-text">Our Portfolio</h1>
+<h1 class = "orange-text left">Our Portfolio</h1>
+<div style = "margin-bottom:40px;"class = "right ver50">
+  <a href = "" class = "blue lighten-2 s12 m6 l3 btn waves-effect waves-light">Filter results</a>
+  <a href = "" class = "blue lighten-2 s12 m6 l3 btn waves-effect waves-light">Sort results</a>
+</div>
+<div style = "clear:both;"></div>
 <div class = "row">
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information.
-      </p>
+  </div>
+  <div class = "col m1 l1 s0">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information</p>.
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
+  </div>
+  <div class = "col s0 m1 l1">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
   </div>
 </div>
-<div class = "col m1 l1 s0">
-  &nbsp;
-</div>
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
-    </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information</p>.
-    </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
-    </div>
-  </div>
-</div>
-<div class = "col s0 m1 l1">
-  &nbsp;
-</div>
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
-    </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information.</p>
-    </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
+<div class = "row">
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
   </div>
-</div>
-</div>
- <div class = "row">
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
-    </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information.
-      </p>
-    </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
+  <div class = "col m1 l1 s0">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information</p>.
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
   </div>
-</div>
-<div class = "col m1 l1 s0">
-  &nbsp;
-</div>
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
-    </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information</p>.
-    </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
+  <div class = "col s0 m1 l1">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
     </div>
   </div>
-</div>
-<div class = "col s0 m1 l1">
-  &nbsp;
-</div>
-<div class = "col s6 m3 l3">
-  <div class="card">
-    <div class="card-image">
-      <img src="images/sample1.png">
-      <span class="card-title">Card Title</span>
-    </div>
-    <div class="card-content">
-      <p>I am a very simple card. I am good at containing small bits of information.</p>
-    </div>
-    <div class="card-action">
-      <a href="#">This is a link</a>
-      <a href='#'>This is a link</a>
-    </div>
-  </div>
-</div>
 </div> 
-<div class="card-panel center yellow  lighten-4"><u><a class = "orange-text bold underline" href = "">Start my hitech project with awesome kodeplayers.</a></div>
+<br/><br/>
+<div class = "container center orange" style = "margin-bottom:60px;">
+<ul class="pagination">
+  <li class="disabled"><a href="#!"><i class="mdi-navigation-chevron-left"></i></a></li>
+  <li class="active"><a href="#!">1</a></li>
+  <li class="waves-effect"><a href="#!">2</a></li>
+  <li class="waves-effect"><a href="#!">3</a></li>
+  <li class="waves-effect"><a href="#!">4</a></li>
+  <li class="waves-effect"><a href="#!">5</a></li>
+  <li class="waves-effect"><a href="#!"><i class="mdi-navigation-chevron-right"></i></a></li>
+</ul>
+</div>
+<br/>    <br/>
+<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "">Start my hitech project with awesome kodeplayers.</a></div>
 
