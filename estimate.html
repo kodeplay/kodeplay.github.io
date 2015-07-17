@@ -11,16 +11,19 @@ section_id: home
         <div class="input-field col s6">
           <input name="first_name" id="first_name" type="text" class="validate">
           <label for="first_name">Full Name</label>
+          <div id="first_name_e" style="color:red;"></div>
         </div>
         <div class="input-field col s6">
           <input id="email" name="email" type="email" class="validate">
           <label for="email">Email</label>
+          <div id="email_e" style="color:red;"></div>
         </div>
       </div>
       <div class="row">
         <div class="input-field col s12">
             <input id="telephone" name="telephone" type="tel" class="validate">
             <label for="telephone">Telephone</label>
+            <div id="telephone_e" style="color:red;"></div>
         </div>
       </div>
       <div class="row">
@@ -43,7 +46,7 @@ section_id: home
       </div>
       <div class="row">
         <div class="input-field col s12">
-          <select name="estimate_time">
+          <select name="estimate_time" id="estimate_time">
             <option value="1">1 month (160 hours) / USD 3200</option>
             <option value="2">2 months (320 hours) / USD 6400</option>
             <option value="3">3 months (480 hours) / USD 9600</option>

@@ -1,0 +1,144 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <title>Request For Estimate</title>
+
+    <!-- CSS  -->
+    <link href="/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="/css/anime.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+  </head>
+  <body>
+    <div class = "container">
+      <div class = "mar20 brand-logo center"
+        <a style = "cursor:pointer;"href = "#!"><img src='/images/logo.png'>
+      </div>
+
+        <nav class = "blue lighten-5 blue-text text-lighten-3">
+          <ul class = blue-text text-lighten-2>
+            <li><a class = "bold blue-text text-lighten" href = "home.html">Home</a></li>
+            <li><a  class = "bold blue-text text-lighten" href = "">Free Resources</a></li>
+            <li><a   class = "bold blue-text text-lighten" href = "">About Us</a></li>
+            <li><a  class = "bold blue-text text-lighten"  href = "">Portfolio</a></li>
+            <li><a   class = "bold blue-text text-lighten" href = "services.html">Services</a></li>
+            <li><a   class = "bold blue-text text-lighten" href = "">Blog</a></li>
+            <li><a  class = "bold blue-text text-lighten"  href = "estimate.html">Request an estimate</a></li>
+          </ul>
+        </nav>
+        <div class="row mar-top-50" style="height:1200px;">
+    <form class="col s12" action="" method="POST">
+      <h4 style="border-bottom: 1px dashed #666;" class="mar-bot-40">Request For Estimate</h4>
+      <div class="row">
+        <div class="input-field col s6">
+          <input placeholder="Full Name" name="first_name" id="first_name" type="text" class="validate">
+          <label for="first_name">Full Name</label>
+        </div>
+        <div class="input-field col s6">
+          <input placeholder="Email" id="email" name="email" type="email" class="validate">
+          <label for="email">Email</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+            <input placeholder="Telephone" id="telephone" name="telephone" type="tel" class="validate">
+            <label for="telephone">Telephone</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea1" name="textarea1" class="materialize-textarea"></textarea>
+          <label for="textarea1">Explain us about this product or service</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea2" name="textarea2" class="materialize-textarea"></textarea>
+          <label for="textarea2">who are your users ? which new job will they be able to do when you launch ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <textarea id="textarea3" name="textarea3" class="materialize-textarea"></textarea>
+          <label for="textarea3">What is new and unique about this product or service ? what is your unique selling proposition and which advantage do you have over your competition ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <select name="estimate_time">
+            <option value="1">1 month (160 hours) / USD 3200</option>
+            <option value="2">2 months (320 hours) / USD 6400</option>
+            <option value="3">3 months (480 hours) / USD 9600</option>
+            <option value="4">More Than 3 months</option>
+          </select>
+          <label>Estimated project time/cost</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input placeholder="" id="text1" name="text1" type="text" class="">
+          <label for="text1">How did you hear about Kodeplay ?</label>
+        </div>
+      </div>
+      <div class="row">
+        <div class="input-field col s12">
+          <input placeholder="" id="text2" name="text2" type="text" class="">
+          <label for="text2">Your timezone</label>
+        </div>
+      </div>
+      <button class="btn waves-effect waves-light" type="submit" name="action">Submit
+        <i class="mdi-content-send right"></i>
+      </button>
+    </form>
+  </div>
+  <script type="text/javascript">
+    //$(document).ready(function() {
+      //$('select').material_select();
+    //});
+  </script>
+    </div>
+
+
+    <footer style = "width:100%;" class="blue lighten-5 blue-text page-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col l6 s12">
+            <p>You can use rows and columns here to organize your footer content.</p>
+          </div>
+          <div class="col l4 offset-l2 s12">
+            <ul>
+              <li><a  href="#!">Home</a></li>
+              <li><a href="#!">Free Resources</a></li>
+              <li><a  href="#!">About Us</a></li>
+              <li><a  href="#!">Portfolio</a></li>
+               <li><a  href="#!">Services</a></li> 
+               <li><a  href="#!">Blog</a></li> 
+               <li><a  href="#!">Request an estimate</a></li> 
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="footer-copyright">
+        <div class="container">
+          © 205 Copyrigt Kodeplay
+        </div>
+      </div>
+    </footer> 
+    <scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+    <script src="js/main.js"></script>
+
+    <script type = "text/javascript">
+
+$(document).ready(function(){
+  $('.slider').slider({full_width: true});
+  $('select').material_select();
+});
+    </script>
+  </body>
+</html>
+
