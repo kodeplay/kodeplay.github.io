@@ -1,0 +1,110 @@
+---
+layout: default
+title: Kodeplay - About Us.
+section_id: about
+---
+<div class = "row mar-top-50">
+<div class = "col s12 m6 l6">
+  <h3 class = "orange-text">The Kodeplay Story</h3>
+
+  <p class = "flow-text">
+  Our story will be seen here.
+  Our story will be seen here.
+  Our story will be seen here.
+  Our story will be seen here.
+  Our story will be seen here.
+
+  </p>
+</div>
+<div class = "col slider s12 m6 l6">
+
+  <ul class="slides">
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+      <div class="caption center-align">
+        <h3>This is our big Tagline!</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+      <div class="caption left-align">
+        <h3>Left Aligned Caption</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+      <div class="caption right-align">
+        <h3>Right Aligned Caption</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+      <div class="caption center-align">
+        <h3>This is our big Tagline!</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+  </ul>
+</div>
+
+</div>
+<h1 class = "orange-text mar-top-50">Meet The Kodeplayers</h1>
+<div style = "margin-left:50px;"class = "row">
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.
+        </p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
+    </div>
+  </div>
+  <div class = "col m1 l1 s0">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information</p>.
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
+    </div>
+  </div>
+  <div class = "col s0 m1 l1">
+    &nbsp;
+  </div>
+  <div class = "col s6 m3 l3">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/sample1.png">
+        <span class="card-title">Card Title</span>
+      </div>
+      <div class="card-content">
+        <p>I am a very simple card. I am good at containing small bits of information.</p>
+      </div>
+      <div class="card-action">
+        <a href="#">This is a link</a>
+        <a href='#'>This is a link</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "">Hire us now to make hitech products.</a></div>
+
