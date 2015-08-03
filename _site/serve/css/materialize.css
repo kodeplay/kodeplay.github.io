@@ -1998,7 +1998,7 @@ ul {
 .clearfix {
   clear: both; }
 
-.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
+.z-depth-1, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); }
@@ -2072,7 +2072,7 @@ img.responsive-img, video.responsive-video {
   .pagination li.active a {
     color: #fff; }
   .pagination li.active {
-    background-color: #ee6e73; }
+    background-color: orange; }
   .pagination li.disabled a {
     color: #999; }
   .pagination li i {
@@ -5006,7 +5006,7 @@ span.badge {
 
 nav {
   color: #fff;
-  background-color: #ee6e73;
+  
   width: 100%;
   height: 56px;
   line-height: 56px; }
@@ -5067,7 +5067,7 @@ nav {
       nav ul li:hover, nav ul li.active {
         background-color: rgba(0, 0, 0, 0.1); }
     nav ul a {
-      font-size: 1rem;
+      font-size: 1.2rem;
       color: #fff;
       display: block;
       padding: 0 15px; }
