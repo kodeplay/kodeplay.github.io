@@ -1,0 +1,58 @@
+---
+layout: default
+title: Aaron Fargose - Maker at kodeplay.
+section_id: about
+---
+<div class = "row mar-top-50">
+<div class = "col s12 m6 l6">
+  <h3 class = "orange-text">Aaron Fargose</h3>
+
+  <p class = "flow-text">
+  Aaron's persistence is exemplary.
+  He steers a project towards the bay in his own calm style.
+  He enjoys working out.
+  Helping customers achieve progress is a quest he loves to stick to.
+  Extreme focus causes some lack of exploration which he is looking to make up for.
+
+  <a href = "#">Subscribe to know more about aaron's making journey.</a>
+
+  </p>
+</div>
+<div class = "col slider s12 m6 l6">
+
+  <ul class="slides">
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+      <div class="caption center-align">
+        <h3>This is our big Tagline!</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+      <div class="caption left-align">
+        <h3>Left Aligned Caption</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+      <div class="caption right-align">
+        <h3>Right Aligned Caption</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+    <li>
+      <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+      <div class="caption center-align">
+        <h3>This is our big Tagline!</h3>
+        <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+      </div>
+    </li>
+  </ul>
+</div>
+
+</div>
+
+<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "">Hire us now to make hitech products.</a></div>
+

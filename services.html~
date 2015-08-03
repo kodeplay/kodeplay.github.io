@@ -4,12 +4,7 @@ title: Kodeplay.
 section_id: home
 ---
 <h1 class = "orange-text">Our Services:</h1>
-<p>We have been developing technology solutions since 6 years.
-Now we are providing specialized growth hacking and online marketing services.
-Your business growth is our mission.
-Our tools are data analysis, metrics driven approach, automation.
 
-</p>
 <div style = "margin-left:50px;"class = "row mar20">
   <div class = "col s6 m3 l3">
     <div class="card">

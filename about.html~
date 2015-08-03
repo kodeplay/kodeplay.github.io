@@ -8,11 +8,28 @@ section_id: about
   <h3 class = "orange-text">The Kodeplay Story</h3>
 
   <p class = "flow-text">
-  Our story will be seen here.
-  Our story will be seen here.
-  Our story will be seen here.
-  Our story will be seen here.
-  Our story will be seen here.
+  6 years.
+  It has been a story worthy of many potboilers.
+  many lessons have been learnt.
+  Many people have evolved.
+  Large sums of money have been made and lost.
+  The lessons stay.
+
+  The enthusiasm has soared to its zenith.
+  Everything has a sense of calm now.
+
+  The will to make the world better is now stronger than steel.
+
+  Great friendships have been formed.
+  Trust has been built.
+
+  We are looking to progress now and to set everything right.
+  Knowledge and creativity will be juxtaposed.
+  Technology will be built.
+  The world will enjoy and change for the better.
+
+  Interested to see what happens next ?
+  <a href = "#">Subscribe and join us in our journey</a>
 
   </p>
 </div>
@@ -57,15 +74,15 @@ section_id: about
     <div class="card">
       <div class="card-image">
         <img src="images/sample1.png">
-        <span class="card-title">Card Title</span>
+        <span class="card-title">Karan Ahuja</span>
       </div>
       <div class="card-content">
-        <p>I am a very simple card. I am good at containing small bits of information.
+        <p>
+ Karan is a restless tech enthusiast dreaming about changing the world .
         </p>
       </div>
       <div class="card-action">
-        <a href="#">This is a link</a>
-        <a href='#'>This is a link</a>
+        <a href="#">Know More</a>
       </div>
     </div>
   </div>
@@ -76,14 +93,15 @@ section_id: about
     <div class="card">
       <div class="card-image">
         <img src="images/sample1.png">
-        <span class="card-title">Card Title</span>
+        <span class="card-title">Eric Fargose</span>
       </div>
       <div class="card-content">
-        <p>I am a very simple card. I am good at containing small bits of information</p>.
+        <p>Eric is the very epitome of discipline.
+        He is always looking for action to build.
+        </p>.
       </div>
       <div class="card-action">
-        <a href="#">This is a link</a>
-        <a href='#'>This is a link</a>
+        <a href="#">Know More</a>
       </div>
     </div>
   </div>
@@ -94,14 +112,15 @@ section_id: about
     <div class="card">
       <div class="card-image">
         <img src="images/sample1.png">
-        <span class="card-title">Card Title</span>
+        <span class="card-title">Aaron Fargose</span>
       </div>
       <div class="card-content">
-        <p>I am a very simple card. I am good at containing small bits of information.</p>
+        <p>
+        Aaron's persistence is exemplary.He steers a project to his bay in his own calm style.
+        </p>
       </div>
       <div class="card-action">
-        <a href="#">This is a link</a>
-        <a href='#'>This is a link</a>
+        <a href="#">Know More</a>
       </div>
     </div>
   </div>

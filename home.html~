@@ -260,7 +260,7 @@ section_id: home
         <a href='#'>This is a link</a>
       </div>
     </div>
-  </div>                                                          v
+  </div>                  
   <div style = "padding:0px;"class = "col s12">
     <div class="card">
       <div class="card-content">
@@ -288,7 +288,6 @@ section_id: home
 
      We are soon going to start working on auditing content and link building.
      Everyone is excited about CARFIXERS and to make hassle free car maintainence possible f     or everyone.
-
         </p>
       </div>
       <div class="card-action">
@@ -296,8 +295,7 @@ section_id: home
         <a href='#'>This is a link</a>
       </div>
     </div>
-  </div>                                                          v
-  <div style = "padding:0px;" class = "col s12">
+  </div>                                                   <div style = "padding:0px;" class = "col s12">
     <div class="card">
       <div class="card-content">
         <h5>3digiprints</h5>
@@ -338,10 +336,10 @@ section_id: home
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/sample1.png">
+        <img class="activator" src="images/online-marketing-customers/verynutri.jpg">
       </div>
       <div class="card-content">
-        <p><a href="#">This is a link</a></p>
+        <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Card Title <i class="mdi-navigation-close right"></i></span>
@@ -352,10 +350,10 @@ section_id: home
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/sample1.png">
+        <img class="activator" src="images/online-marketing-customers/carfixers.jpg">
       </div>
       <div class="card-content">
-        <p><a href="#">This is a link</a></p>
+        <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Card Title <i class="mdi-navigation-close right"></i></span>
@@ -366,10 +364,11 @@ section_id: home
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/sample1.png">
+        <img class="activator" src="images/online-marketing-customers/kamaltraders.png">
       </div>
+      <hr/>
       <div class="card-content">
-        <p><a href="#">This is a link</a></p>
+        <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Card Title <i class="mdi-navigation-close right"></i></span>
@@ -380,10 +379,10 @@ section_id: home
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/sample1.png">
+        <img class="activator" src="images/online-marketing-customers/3digiprints.jpg">
       </div>
       <div class="card-content">
-        <p><a href="#">This is a link</a></p>
+        <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Card Title <i class="mdi-navigation-close right"></i></span>
