@@ -45,7 +45,7 @@ section_id: home
         <span class="card-title">Metrics Driven</span>
       </div>
       <div class="card-content">
-         <h5 class = "blue-text text-lighten">Metrics</h5> 
+        <h5 class = "blue-text text-lighten">Metrics</h5> 
         <p>We measure results and constantly experiment to use the best marketing actions and channels for you.</p>.
       </div>
       <div class="card-action">
@@ -63,7 +63,7 @@ section_id: home
         <span class="card-title">Automation</span>
       </div>
       <div class="card-content">
-          <h5 class = "blue-text text-lighten">Automation</h5>  
+        <h5 class = "blue-text text-lighten">Automation</h5>  
         <p>We make our own tools to constantly accelerate your business growth through automations where applicable.</p>
       </div>
       <div class="card-action">
@@ -76,39 +76,39 @@ section_id: home
   <ul class="slides">
     <li>
       <img src="images/team1.jpg"> <!-- random image -->
-<!--
-      <div class="caption center-align">
+      <!--
+        <div class="caption center-align">
         <h3>This is our big Tagline!</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
--->
+        </div>
+      -->
     </li>
     <li>
       <img src="images/team2.jpg"> <!-- random image -->
-     <!--
-      <div class="caption left-align">
+      <!--
+        <div class="caption left-align">
         <h3>Left Aligned Caption</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-     -->
+        </div>
+      -->
     </li>
     <li>
       <img src="images/team3.jpg"> <!-- random image -->
-<!--
-      <div class="caption right-align">
+      <!--
+        <div class="caption right-align">
         <h3>Right Aligned Caption</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
--->
+        </div>
+      -->
     </li>
     <li>
       <img src="images/team4.jpg"> <!-- random image -->
-  <!--
-      <div class="caption center-align">
+      <!--
+        <div class="caption center-align">
         <h3>This is our big Tagline!</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-      </div>
-  -->
+        </div>
+      -->
     </li>
   </ul>
 </div>
@@ -121,7 +121,7 @@ section_id: home
         <img src="images/sample1.png">
       </div>
       <div class="card-content">
-      <h5 class = "blue-text text-lighten">Jekyll Cart</h5>  
+        <h5 class = "blue-text text-lighten">Jekyll Cart</h5>  
         <p>We love jekyll. We made a simple minimal ecommerce store by using jekyll for our customers starting up in ecommerce.
         </p>
       </div>
@@ -140,7 +140,7 @@ section_id: home
         <img src="images/sample1.png">
       </div>
       <div class="card-content">
-          <h5 class = "blue-text text-lighten">Opencart store builder</h5>  
+        <h5 class = "blue-text text-lighten">Opencart store builder</h5>  
         <p>I am a very simple card. I am good at containing small bits of information</p>.
       </div>
       <div class="card-action">
@@ -158,7 +158,7 @@ section_id: home
         <img src="images/sample1.png">
       </div>
       <div class="card-content">
-          <h5 class = "blue-text text-lighten">Coming Soon</h5>  
+        <h5 class = "blue-text text-lighten">Coming Soon</h5>  
         <p>Coming soon to boost your marketing.</p>
       </div>
       <div class="card-action">
@@ -215,7 +215,7 @@ section_id: home
     </div>
   </div>
 
-   <div style = "padding:0px;"class = "col s12">
+  <div style = "padding:0px;"class = "col s12">
     <div class="card">
       <div class="card-content">
         <h5>Kamal Traders</h5>
@@ -275,19 +275,19 @@ section_id: home
 
         He agreed to follow lean startup method and we started a blog to build an audience.
 
-        How we worked with carficers?
+        How we worked with carfixers?
 
-       The team working on the blog had in depth domain knowledge and were new to digital marketing.
+        The team working on the blog had in depth domain knowledge and were new to digital marketing.
 
-      We demoed few techniques for them to get initial followers and discussed how they could find content creation ideas.
+        We demoed few techniques for them to get initial followers and discussed how they could find content creation ideas.
 
-     They did create valuable information and are now enjoying the result of the same.
+        They did create valuable information and are now enjoying the result of the same.
 
-     <4 photos>
-     What are current plans ?
+        <4 photos>
+        What are current plans ?
 
-     We are soon going to start working on auditing content and link building.
-     Everyone is excited about CARFIXERS and to make hassle free car maintainence possible f     or everyone.
+        We are soon going to start working on auditing content and link building.
+        Everyone is excited about CARFIXERS and to make hassle free car maintainence possible f     or everyone.
         </p>
       </div>
       <div class="card-action">
@@ -318,7 +318,7 @@ section_id: home
         Thanks to jekyll, we have created a minimal , simple , fast loading website.
 
         Further speed optimizations are on our TODO list as well.
-        
+
         </p>
       </div>
       <div class="card-action">
@@ -338,11 +338,21 @@ section_id: home
       <div class="card-image waves-effect waves-block waves-light">
         <img class="activator" src="images/online-marketing-customers/verynutri.jpg">
       </div>
+      <hr/>
       <div class="card-content">
+        <i class = "material-icons tiny">done</i>
+        SEO
+        <br/> 
+        <i class = "material-icons tiny">done</i> 
+        Social Media Marketing
+
+        <br/>
+        <br/>
         <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4">Card Title <i class="mdi-navigation-close right"></i></span>
+
         <p>Here is some more information about this product that is only revealed once clicked on.</p>
       </div>
     </div>
@@ -352,7 +362,16 @@ section_id: home
       <div class="card-image waves-effect waves-block waves-light">
         <img class="activator" src="images/online-marketing-customers/carfixers.jpg">
       </div>
+      <hr/>
       <div class="card-content">
+        <i class = "material-icons tiny">done</i>
+        Consulting
+        <br/> 
+        <i class = "material-icons tiny">done</i> 
+        SEO
+
+        <br/>
+        <br/> 
         <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
@@ -368,6 +387,12 @@ section_id: home
       </div>
       <hr/>
       <div class="card-content">
+        <i class = "material-icons tiny">done</i>
+        Website Coding
+
+
+        <br/>
+        <br/> 
         <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
@@ -381,7 +406,14 @@ section_id: home
       <div class="card-image waves-effect waves-block waves-light">
         <img class="activator" src="images/online-marketing-customers/3digiprints.jpg">
       </div>
+      <hr/>
       <div class="card-content">
+        <i class = "material-icons tiny">done</i>
+        Website Coding
+
+
+        <br/>
+        <br/>  
         <p><a href="#">Read Case Study</a></p>
       </div>
       <div class="card-reveal">
@@ -395,47 +427,54 @@ section_id: home
 <h1 class = "orange-text">Testimonials:</h1>
 <div class = "col s12">
   <div class="card">     
-    <div class = "left">
-      <img src="images/sample1.png">
+    <h5 class = "pad10 blue-text text-lighten">Michael Sheasby [CEO at <a style = "text-decoration:underline;" href = "http://jealeatech.com/">Jalea Tech</a>] </h5> 
+    <div class = "left mar10 mar-right-20">
+      <img width="200" height="180" src="images/testimonials/michael.jpg">
     </div>
     <div class = "valign-wrapper left l6 m6 s6">
+
       <blockquote class = "valign">
-        Someone said this.
-        Someone said this.
-        Someone said this.
-        Someone said this.
+        Congratulations on a job well done.<br/> You guys are a dedicated bunch.<br/>
+        We have worked together for 3+ years and it was an easy happy experience.
+        <br/>
+        Keep up the good work. 
       </blockquote>
     </div>
   </div>
 </div>
- <div class = "col s12">
-  <div class="card">     
-    <div class = "left">
-      <img src="images/sample1.png">
-    </div>
-    <div class = "valign-wrapper left l6 m6 s6">
-      <blockquote class = "valign">
-        Someone said this.
-        Someone said this.
-        Someone said this.
-        Someone said this.
-      </blockquote>
-    </div>
-  </div>
-</div> 
 <div class = "col s12">
   <div class="card">     
-    <div class = "left">
-      <img src="images/sample1.png">
+    <h5 class = "pad10 blue-text text-lighten">Ronald Dsouza [CEO at <a style = "text-decoration:underline;" href = "http://rdpromos.com/">RD Promos</a>] </h5> 
+    <div class = "left mar10 mar-right-20">
+      <img width="200" height="180" src="images/testimonials/ronald.png">
     </div>
     <div class = "valign-wrapper left l6 m6 s6">
+
       <blockquote class = "valign">
-        Someone said this.
-        Someone said this.
-        Someone said this.
-        Someone said this.
+        You guys are running a great show.<br/>
+        I have worked with 10+ companies into development and digital marketing.
+        <br/>
+        you guys are offering real results and growth.
+        <br/>
+        Glad to keep working with you. 
       </blockquote>
     </div>
   </div>
-</div> 
+</div>
+<div class = "col s12">
+  <div class="card">     
+    <h5 class = "pad10 blue-text text-lighten">Grayden Wagner [EX-CEO at <a style = "text-decoration:underline;" href = "http://fullscale.net/">Fullscale</a>] </h5> 
+    <div class = "left mar10 mar-right-20">
+      <img width="200" height="180" src="images/testimonials/grayden.jpg">
+    </div>
+    <div class = "valign-wrapper left l6 m6 s6">
+
+      <blockquote class = "valign">
+        You guys have nailed it!
+        <br/>
+        Congratulations on the job well done.
+      </blockquote>
+    </div>
+  </div>
+</div>
 
