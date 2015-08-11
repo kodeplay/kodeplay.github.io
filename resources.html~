@@ -1,3 +1,35 @@
 ---
-
+layout: default
+title: Kodeplay.
+section_id: resources
 ---
+<h1 class = "orange-text">Free Resources</h1>
+<div class="card-panel">
+  <p class = "grey-text bold underline" href = "https://github.com/ericfargose/storebuilder_kode/archive/master.zip">Start my Opencart store builder project with awesome kodeplayers.
+  <a class = "mar-left-20" href = "https://github.com/ericfargose/storebuilder_kode/archive/master.zip">Download</a>
+  </p>
+</div>
+<div class="card-panel">
+  <p class = "grey-text bold underline" href = "https://github.com/ericfargose/sitebuilder_kode/archive/master.zip">Start my Jekyll Cart project with awesome kodeplayers.
+  <a class = "mar-left-20" href = "https://github.com/ericfargose/sitebuilder_kode/archive/master.zip">Download</a>
+  </p>
+</div>
+
+
+
+<h1 class = "orange-text">Our Recommendations</h1>
+<div class="card-panel">
+  <p class = "grey-text bold underline" href = "http://www.opencart.com/">Opencart.
+  <a class = "mar-left-20" href = "http://www.opencart.com/?route=download/download" target="_blank">Download</a>
+  </p>
+</div>
+<div class="card-panel">
+  <p class = "grey-text bold underline" href = "http://jekyllrb.com/">Jekyll.
+  <a class = "mar-left-20" href = "http://github.com/jekyll/jekyll/archive/master.zip">Download</a>
+  </p>
+</div>
+
+<br/><br/>
+<div class = "divider"></div>
+<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "estimate.html">Work with us to make an impact.</a></div>
+

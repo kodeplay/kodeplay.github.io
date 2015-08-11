@@ -37,32 +37,40 @@ section_id: about
 
   <ul class="slides">
     <li>
-      <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+      <img src="images/1.jpg"> <!-- random image -->
+      <!--
       <div class="caption center-align">
         <h3>This is our big Tagline!</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
       </div>
+      -->
     </li>
     <li>
-      <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+      <img src="images/2.jpg"> <!-- random image -->
+      <!--
       <div class="caption left-align">
         <h3>Left Aligned Caption</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
       </div>
+      -->
     </li>
     <li>
-      <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+      <img src="images/3.jpg"> <!-- random image -->
+      <!--
       <div class="caption right-align">
         <h3>Right Aligned Caption</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
       </div>
+      -->
     </li>
     <li>
-      <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+      <img src="images/4.jpg"> <!-- random image -->
+      <!--
       <div class="caption center-align">
         <h3>This is our big Tagline!</h3>
         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
       </div>
+      -->
     </li>
   </ul>
 </div>
@@ -73,8 +81,10 @@ section_id: about
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image">
-        <img src="images/sample1.png">
-        <span class="card-title">Karan Ahuja</span>
+        <a href="karan.html">
+          <img src="http://www.gravatar.com/avatar/991933a63758794787cc255d77768de4?s=160">
+          <span class="card-title">Karan Ahuja</span>
+        </a>
       </div>
       <div class="card-content">
         <p>
@@ -82,7 +92,7 @@ section_id: about
         </p>
       </div>
       <div class="card-action">
-        <a href="#">Know More</a>
+        <a href="karan.html">Know More</a>
       </div>
     </div>
   </div>
@@ -92,8 +102,10 @@ section_id: about
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image">
-        <img src="images/sample1.png">
-        <span class="card-title">Eric Fargose</span>
+        <a href="eric.html">
+          <img src="http://www.gravatar.com/avatar/b9d6d578282523496f4c0875aa83d458?s=160">
+          <span class="card-title">Eric Fargose</span>
+        </a>
       </div>
       <div class="card-content">
         <p>Eric is the very epitome of discipline.
@@ -101,7 +113,7 @@ section_id: about
         </p>.
       </div>
       <div class="card-action">
-        <a href="#">Know More</a>
+        <a href="eric.html">Know More</a>
       </div>
     </div>
   </div>
@@ -111,8 +123,10 @@ section_id: about
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image">
-        <img src="images/sample1.png">
-        <span class="card-title">Aaron Fargose</span>
+        <a href="aaron.html">
+          <img src="http://www.gravatar.com/avatar/68aa1da8c715a29b9e750876a191127a?s=160">
+          <span class="card-title">Aaron Fargose</span>
+        </a>
       </div>
       <div class="card-content">
         <p>
@@ -120,10 +134,10 @@ section_id: about
         </p>
       </div>
       <div class="card-action">
-        <a href="#">Know More</a>
+        <a href="aaron.html">Know More</a>
       </div>
     </div>
   </div>
 </div>
-<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "">Hire us now to make hitech products.</a></div>
+<div class="card-panel center yellow  lighten-4"><a class = "orange-text bold underline" href = "estimate.html">Hire us now to make hitech products.</a></div>
 

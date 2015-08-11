@@ -22,8 +22,8 @@
   padding:5px;
 }
 .ver50{
-  margin-top:100px;
-  margin-bottom:100px;
+  margin-top:51px;
+  margin-bottom:51px;
 }
 .bold{
   font-weight:bold;
@@ -43,4 +43,11 @@ margin-right:20px;
 }
 hr{
  border-top:1px solid #ccc;
+}
+.btn,.btn-large{
+ background-color:#3d7fb9;
+}
+
+.card-action a.blue-link{
+ color:#3d7fb9;
 }

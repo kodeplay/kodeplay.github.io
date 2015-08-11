@@ -20,11 +20,11 @@ section_id: home
 <div style = "margin-left:50px;"class = "row">
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image">
+      <div class="card-image" style="height:180px;">
         <img src="images/data.jpg">
         <span class="card-title">Data Analysis</span>
       </div>
-      <div class="card-content">
+      <div class="card-content" style="height:220px;">
         <h5 class = "blue-text text-lighten">Data Analysis</h5>
 
         <p>We analyze data to identify action plans, priorities for better digital marketing.
@@ -40,13 +40,13 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image">
+      <div class="card-image" style="height:180px;">
         <img width = "200" height = "180" src="images/measure.jpg">
         <span class="card-title">Metrics Driven</span>
       </div>
-      <div class="card-content">
+      <div class="card-content" style="height:220px;">
         <h5 class = "blue-text text-lighten">Metrics</h5> 
-        <p>We measure results and constantly experiment to use the best marketing actions and channels for you.</p>.
+        <p>We measure results and constantly experiment to use the best marketing actions and channels for you.</p>
       </div>
       <div class="card-action">
         <a href="#">See Case studies.</a>
@@ -58,11 +58,11 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image">
+      <div class="card-image" style="height:180px;">
         <img src="images/remote.jpg">
         <span class="card-title">Automation</span>
       </div>
-      <div class="card-content">
+      <div class="card-content" style="height:220px;">
         <h5 class = "blue-text text-lighten">Automation</h5>  
         <p>We make our own tools to constantly accelerate your business growth through automations where applicable.</p>
       </div>
@@ -115,18 +115,18 @@ section_id: home
 <div class = "divider"></div>
 <h1 class = "orange-text">Our Best Open Source Projects:</h1>
 <div style = "margin-left:50px;"class = "row">
+  
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image">
-        <img src="images/sample1.png">
+        <img src="images/sample1.png" style="height:180px;">
       </div>
-      <div class="card-content">
-        <h5 class = "blue-text text-lighten">Jekyll Cart</h5>  
-        <p>We love jekyll. We made a simple minimal ecommerce store by using jekyll for our customers starting up in ecommerce.
-        </p>
+      <div class="card-content" style="height:220px;">
+        <h5 class = "blue-text text-lighten">Store builder</h5>  
+        <p>Create and manage multiple opencart online stores instantly.</p>
       </div>
       <div class="card-action">
-        <a href="#">Download Now.</a>
+        <a class = "blue-link" href="#">Download Now.</a>
         <a href='#'>See Case Study.</a>
       </div>
     </div>
@@ -136,15 +136,16 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image">
+      <div class="card-image" style="height:180px;">
         <img src="images/sample1.png">
       </div>
-      <div class="card-content">
-        <h5 class = "blue-text text-lighten">Opencart store builder</h5>  
-        <p>I am a very simple card. I am good at containing small bits of information</p>.
+      <div class="card-content" style="height:220px;">
+        <h5 class = "blue-text text-lighten">Jekyll Cart</h5>  
+        <p>We love jekyll. We made a simple minimal ecommerce store by using jekyll for our customers starting up in ecommerce.
+        </p>
       </div>
       <div class="card-action">
-        <a href="#">Download Now.</a>
+        <a class = "blue-link" href="#">Download Now.</a>
         <a href='#'>See Case Study.</a>
       </div>
     </div>
@@ -155,14 +156,14 @@ section_id: home
   <div class = "col s6 m3 l3">
     <div class="card">
       <div class="card-image">
-        <img src="images/sample1.png">
+        <img src="images/sample1.png" style="height:180px;">
       </div>
-      <div class="card-content">
+      <div class="card-content" style="height:220px;">
         <h5 class = "blue-text text-lighten">Coming Soon</h5>  
         <p>Coming soon to boost your marketing.</p>
       </div>
       <div class="card-action">
-        <a href="#">Download Now.</a>
+        <a class = "blue-link" href="#">Download Now.</a>
         <a href='#'>See Case Study.</a>
       </div>
     </div>
@@ -335,8 +336,8 @@ section_id: home
 <div class = "row">
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/online-marketing-customers/verynutri.jpg">
+      <div class="card-image waves-effect waves-block waves-light" style="height:80px;">
+        <img class="activator" src="images/online-marketing-customers/verynutri.jpg" style="padding-top:10px;">
       </div>
       <hr/>
       <div class="card-content">
@@ -359,11 +360,11 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light">
+      <div class="card-image waves-effect waves-block waves-light" style="height:80px;">
         <img class="activator" src="images/online-marketing-customers/carfixers.jpg">
       </div>
       <hr/>
-      <div class="card-content">
+      <div class="card-content" style="height:150px;">
         <i class = "material-icons tiny">done</i>
         Consulting
         <br/> 
@@ -382,11 +383,11 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light">
-        <img class="activator" src="images/online-marketing-customers/kamaltraders.png">
+      <div class="card-image waves-effect waves-block waves-light" style="height:80px;">
+        <img class="activator" src="images/online-marketing-customers/kamaltraders.png" style="padding-top:25px;">
       </div>
       <hr/>
-      <div class="card-content">
+      <div class="card-content" style="height:150px;">
         <i class = "material-icons tiny">done</i>
         Website Coding
 
@@ -403,11 +404,11 @@ section_id: home
   </div>
   <div class = "col s6 m3 l3">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light">
+      <div class="card-image waves-effect waves-block waves-light" style="height:80px;">
         <img class="activator" src="images/online-marketing-customers/3digiprints.jpg">
       </div>
       <hr/>
-      <div class="card-content">
+      <div class="card-content" style="height:150px;">
         <i class = "material-icons tiny">done</i>
         Website Coding
 

@@ -44,16 +44,13 @@ html * {
 }
 
 .cd-intro {
-  margin: 4em auto;
 }
 @media only screen and (min-width: 768px) {
   .cd-intro {
-    margin: 5em auto;
   }
 }
 @media only screen and (min-width: 1170px) {
   .cd-intro {
-    margin: 6em auto;
   }
 }
 
@@ -69,7 +66,7 @@ html * {
 }
 @media only screen and (min-width: 1170px) {
   .cd-headline {
-    font-size: 3.9em;
+    font-size: 4.1em;
   }
 }
 
