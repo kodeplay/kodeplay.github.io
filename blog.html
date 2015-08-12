@@ -3,9 +3,7 @@ layout: default
 title: Blog
 section_id: blog
 ---
-<h1 class = "underline orange-text"><u>Blog Posts</u></h1>
-<br/>
-<br/>
+<h3 class = "underline orange-text"><u>Blog Posts</u></h3>
 {% for post in site.posts %}
 <div class='post'>
   <div class='info'>
@@ -17,6 +15,7 @@ section_id: blog
     On - 
     <span class='month'>{{ post.date | date: "%h" }}</span>
     <span class='date'>{{ post.date | date: "%d" }}</span>
+     <span class='date'>{{ post.year | date: "%d" }}</span> 
     </p>
      <p>
     By - 
@@ -25,19 +24,15 @@ section_id: blog
   </a>
     </p>
     <p>
-    Reading Time: 10 minutes
+    Reading Time: {{post.reading_time}}
     </p>
     </div>
 </div>
-<br/>
 <div style = "clear:both;"></div>
   <div class='content'>
     {{post.excerpt}}
     <a class='btn waves-effect waves-light' href='{{post.url}}'>Read more</a>
   </div>
-  <br/>
-  <br/>
   <div class = "divider"></div>
-  <br/><br/>
 </div>
 {% endfor %}

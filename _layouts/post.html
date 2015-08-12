@@ -27,8 +27,8 @@
             <li><a  class = "bold blue-text text-lighten"  href = "/estimate.html">Request an estimate</a></li>
           </ul>
         </nav>
-        <h1 class = "left"><a href = "#!">{{page.title}}</a></h1>
-         <div style = "border:1px solid #ccc;padding:7px;" class = "mar20 right">
+        <h3 class = "left"><a class = "orange-text" href = "#!">{{page.title}}</a></h3>
+         <div style = "border:1px solid #ccc;padding:7px;" class = "right">
     <p>
     On - 
     <span class='month'>{{ page.date | date: "%h" }}</span>
@@ -41,15 +41,16 @@
   </a>
     </p>
     <p>
-    Reading Time: 10 minutes
+    Reading Time: {{page.reading_time}}
     </p>
     </div> 
     <br/>
     <div style = "clear:both"></div>
         {{content}}
     </div>
-
-
+    <div class = "center-align">
+     <img class = "center-align" src='{{site.url}}/images/theend2.png'>
+    </div>
     <footer style = "width:100%;" class="blue lighten-5 blue-text page-footer">
       <div class="container">
         <div class="row">
