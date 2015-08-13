@@ -4,9 +4,12 @@ title:  "How we made 3digiprints company website with jekyll."
 date:   2014-08-06 16:49:53
 author: Karan
 reading_time: 1.5 minutes
+category: casestudy
+
 ---
 
 #####How we got hired ?
+
 
 Few Months back, I was hanging out at therodinhoods.com<br/>
 Luckily a rodinhoods member recommended our work to chandan mishra - the founder at 3digiprints.<br/>

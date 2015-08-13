@@ -4,6 +4,7 @@ title:  "Growth hacking consulting for a bootstrapped startup."
 date:   2014-08-06 16:49:53
 author: Karan
 reading_time: 4 minutes
+category: casestudy
 ---       
 #####How we got hired ?
 Amit Gala - a young, strong entrepreneur contacted vineet naik to implement a new idea.<br/>

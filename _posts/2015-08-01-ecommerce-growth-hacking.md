@@ -4,6 +4,7 @@ title:  "Ecommerce Growth Hacking For Verynutri."
 date:   2014-08-06 16:49:53
 author: Karan
 reading_time: 2.5 minutes
+category: casestudy
 
 ---
 ##### How we were hired ?

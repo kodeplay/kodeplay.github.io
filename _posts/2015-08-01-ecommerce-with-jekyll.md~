@@ -4,6 +4,7 @@ title:  "How we made an ecommerce startup website with jekyll at zero hosting co
 date:   2015-08-06 16:49:53
 author: Karan
 reading_time: 4 minutes
+category: casestudy
 ---
 
 #####How we were hired ?
