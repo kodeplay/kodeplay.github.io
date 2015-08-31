@@ -13,7 +13,7 @@
   margin:10px;
 }
 .mar20{
-margin:20px;
+  margin:20px;
 }
 .pad10{
   padding:10px;
@@ -22,19 +22,32 @@ margin:20px;
   padding:5px;
 }
 .ver50{
-margin-top:100px;
-margin-bottom:100px;
+  margin-top:51px;
+  margin-bottom:51px;
 }
 .bold{
   font-weight:bold;
 }
 .mar-top-50{
-	margin-top:50px;
+  margin-top:50px;
 }
 
 .mar-bot-40{
-	margin-bottom:40px;
+  margin-bottom:40px;
 }
 .mar-left-20{
   margin-left:20px;
+}
+.mar-right-20{
+margin-right:20px;
+}
+hr{
+ border-top:1px solid #ccc;
+}
+.btn,.btn-large{
+ background-color:#3d7fb9;
+}
+
+.card-action a.blue-link{
+ color:#3d7fb9;
 }
