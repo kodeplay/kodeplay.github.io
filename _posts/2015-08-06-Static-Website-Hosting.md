@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Invest in marketing and opt for free static website hosting!"
+title:  <span class="standard_font_title">"Invest in marketing and opt for free static website hosting!"</span>
 date:   2014-08-06 16:49:53
-author: Eric
-reading_time: 2 minutes
+author: <span class="standard_font_only">Eric</span>
+reading_time: <span class="standard_font_only">2 minutes</span>
 ---
-
+<p class = "standard_font">
 Invest in marketing and opt for free static website hosting.
 
 We found that giving more effort and money on building a Web application for a small start up E-commerce is of no use. Instead a start up e-comm company should focus on [marketing][kodeplay] and build a basic understandable website.
@@ -13,9 +13,9 @@ We found that giving more effort and money on building a Web application for a s
 [kamaltraders.in][kamaltraders], our client is from where we started.
 Last year in 2014 our client asked us to create an e commerce website. He gave us the catalog (products, images etc). We brought hosting and installed a fresh copy of [piggybak][piggybak].
 Did some customization, imported the catalog data and made the site live. 
-
+</p>
 <!--more-->
-
+<p class = "standard_font">
 But then results were not seen, client was not getting much orders. That was because he failed in marketing.
 
 Then we came with a [marketing plan][kodeplay]  and also suggested our client to save on hosting cost by going with git hub pages.
@@ -32,6 +32,7 @@ Once the hosting is done you will need to point you domain to git hub. For doing
 [https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/][domain_help]
 
 Once done correctly you will have your site working.
+</p>
 
 [kodeplay]: http://kodeplay.com/
 [kamaltraders]: http://kamaltraders.in/

@@ -1,19 +1,22 @@
 ---
 layout: post
-title:  "Growth hacking consulting for a bootstrapped startup."
+title:  <span class="standard_font_title">"Growth hacking consulting for a bootstrapped startup."</span>
 date:   2014-08-06 16:49:53
-author: Karan
-reading_time: 4 minutes
+author: <span class="standard_font_only">Karan</span>
+reading_time: <span class="standard_font_only">4 minutes</span>
 category: casestudy
 ---       
-#####How we got hired ?
+#####
+<p class="standard_font_head">How we got hired ? </p>
+<p class = "standard_font">
 Amit Gala - a young, strong entrepreneur contacted vineet naik to implement a new idea.<br/>
 We were lucky to have vineet naik as our CTO till 2014.               <br/>
 Vineet referred us and Amit Gala visited us.
+</p>
 
 <!--more-->
 
-
+<p class = "standard_font">
 On discussing with Amit, I found that he had a strong insight about the car maintainence segment and he could easily think 3 years ahead of every idea in this space.<br/>
 Amit wanted to improve lives of car mechanics and also try and offer value to car owners.                                                    <br/>
 
@@ -34,5 +37,4 @@ They did create valuable information and are now enjoying the result of the same
 
 We are soon going to start working on auditing content and link building.<br/>
 Everyone is excited about CARFIXERS and to make hassle free car maintainence possible for everyone.
-
-
+</p>
