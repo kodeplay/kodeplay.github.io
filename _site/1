@@ -1,0 +1,133 @@
+<DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <title></title>
+
+    <!-- CSS  -->
+    <link href="/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link href="/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+  </head>
+  <body>
+
+        <div class = "row">
+ <div class = "col s12 m4 l4">
+   <div id = "incredients">
+   incredients
+   <svg width="200" height="300">
+     <g id = "sugar-packet">
+   <rect x = "20" y = "20" width = "40" height = "40"
+   style = "fill:white;stroke:orange"/>
+   <text x = "20" y = "75">sugar</text>
+     </g>
+      <g id = "tea-packet">
+   <rect x = "80" y = "20" width = "40" height = "40"
+   style = "fill:orange;stroke:brown"/>
+   <text x = "80" y = "75">tea</text>
+     </g> 
+
+      <g id = "water-container">
+   <rect x = "20" y = "95" width = "40" height = "40"
+   style = "fill:blue;stroke:grey"/>
+   <text x = "20" y = "150">water</text>
+     </g> 
+    <g id = "ginger-container">
+   <rect x = "80" y = "95" width = "40" height = "40"
+   style = "fill:brown;stroke:grey"/>
+   <text x = "80" y = "150">ginger</text>
+     </g>  
+     <g id = "milk-container">
+   <rect x = "20" y = "170" width = "40" height = "40"
+   style = "fill:white;stroke:blue"/>
+   <text x = "20" y = "225">milk</text>
+     </g> 
+   </svg>
+   </div>
+   <hr/>
+   <div id = "amounts">
+        Amounts
+        <svg width = "200" height = "300" >
+   <g id = "teaspoon">
+   <rect x = "20" y = "20" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "20" y = "75">teaspoon</text>
+     </g> 
+    <g id = "tablespoon">
+   <rect x = "100" y = "20" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "100" y = "75">tablespoon</text>
+     </g>    
+     <g id = "cup">
+   <rect x = "20" y = "90" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "20" y = "145">cup</text>
+     </g>           
+      <g id = "pinch">
+   <rect x = "100" y = "90" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "100" y = "145">pinch</text>
+     </g>            
+        </svg> 
+   </div>
+ </div>           
+
+  <div  class = "col s12 m4 l4">
+    <div style = "min-height:300px;">
+    workarea      1
+    </div>
+   <hr/>
+     <div id = "workarea-2-container" style = "min-height:300px;">
+    workarea      1
+    <svg  onclick = "updateworkarea();" id = "workarea-2" width = "400" height = "300">
+    <rect x = "20" y = "95" width = "40" height = "40"
+   style = "fill:blue;stroke:grey"/>   
+    </svg>
+    </div> 
+
+ </div>
+  <div class = "col s12 m4 l4">
+   tools
+   <svg width = "200" height = "300">
+    <g id = "pan">
+   <rect x = "20" y = "20" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "20" y = "75">pan</text>
+     </g>  
+     <g id = "cookingstove">
+   <rect x = "20" y = "90" width = "135" height = "20"
+   style = "fill:grey;stroke:grey"/>
+   <text x = "20" y = "125">cooking stove</text>
+     </g>   
+     <g id = "knife">
+   <rect x = "20" y = "140" width = "20" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "20" y = "195">knife</text>
+     </g>   
+    <g id = "cooker">
+   <rect x = "20" y = "205" width = "40" height = "40"
+   style = "fill:silver;stroke:grey"/>
+   <text x = "20" y = "260">cooker</text>
+     </g>   
+   </svg>
+ </div> 
+</div>
+<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type = "text/javascript">
+var ginger_container = '<g id = "ginger-container">'+
+'   <rect x = "20" y = "20" width = "40" height = "40"'+
+'   style = "fill:brown;stroke:grey"/>'+
+'   <text x = "20" y = "75">ginger</text>'+
+'     </g>      ' 
+ var knife =
+function updateworkarea(){
+alert("hi");
+$("#workarea-2").append(ginger_container);
+$("#workarea-2-container").html($("#workarea-2-container").html());
+}
+</script>
+
+
+  </body>
+</html>
