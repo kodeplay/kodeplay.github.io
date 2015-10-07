@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <span class="standard_font_title">"How we made 3digiprints company website with jekyll."</span>
+title:  "How we made 3digiprints company website with jekyll."
 date:   2014-08-06 16:49:53
 author: <span class="standard_font_only">Karan</span>
 reading_time: <span class="standard_font_only">1.5 minutes</span>

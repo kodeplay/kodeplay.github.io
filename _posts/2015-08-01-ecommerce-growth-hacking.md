@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <span class="standard_font_title">"Ecommerce Growth Hacking For Verynutri."</span>
+title:  "Ecommerce Growth Hacking For Verynutri."
 date:   2014-08-06 16:49:53
 author: <span class="standard_font_only">Karan</span>
 reading_time: <span class="standard_font_only">2.5 minutes</span>

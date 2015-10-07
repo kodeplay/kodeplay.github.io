@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <span class="standard_font_title">"How we made an ecommerce startup website with jekyll at zero hosting costs."</span>
+title:  "How we made an ecommerce startup website with jekyll at zero hosting costs."
 date:   2015-08-06 16:49:53
 author: <span class="standard_font_only">Karan</span>
 reading_time: <span class="standard_font_only">4 minutes</span>

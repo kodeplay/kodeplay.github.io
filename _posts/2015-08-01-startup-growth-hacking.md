@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <span class="standard_font_title">"Growth hacking consulting for a bootstrapped startup."</span>
+title:  "Growth hacking consulting for a bootstrapped startup."
 date:   2014-08-06 16:49:53
 author: <span class="standard_font_only">Karan</span>
 reading_time: <span class="standard_font_only">4 minutes</span>
