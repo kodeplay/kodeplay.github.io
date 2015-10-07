@@ -84,3 +84,16 @@ h4.post-title{
   font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
   font-size: 18px !important;
 }
+
+.standard_font_estimate{
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+  font-size: 20px !important;
+}
+
+.standard_fontsize_estimate{
+  font-size: 20px !important;
+}
+
+.pad20 {
+  padding-top: 20px !important;
+}
