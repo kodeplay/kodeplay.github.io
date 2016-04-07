@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Invest in marketing and opt for free static website hosting!"
-date:   2014-08-06 16:49:53
-author: <span class="standard_font_only">Eric</span>
-reading_time: <span class="standard_font_only">2 minutes</span>
+title: "Invest in marketing and opt for free static website hosting!"
+date: {}
+author: "<span class=\"standard_font_only\">Eric</span>"
+reading_time: "<span class=\"standard_font_only\">2 minutes</span>"
+published: true
 ---
+
 <p class = "standard_font">
-Invest in marketing and opt for free static website hosting.
+Invest in marketing and opt for free static website hosting.test
 
 We found that giving more effort and money on building a Web application for a small start up E-commerce is of no use. Instead a start up e-comm company should focus on [marketing][kodeplay] and build a basic understandable website.
 
